@@ -1,5 +1,5 @@
 ---
-title: "led memory game nano"
+title: "memory sequence game"
 author: "theonlydesigner"
 description: "a led memory game with an arduino nano, dc barrel jack, jst connector, buzzer/vibration motor and more!"
 created_at: "2026-09-15"
